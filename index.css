@@ -131,9 +131,9 @@ nav .fa{
     }
 }
 
-/*---- course ----*/
+/*---- services ----*/
 
-.course{
+.service{
     width: 80%;
     margin: auto;
     text-align: center;
@@ -160,7 +160,7 @@ p{
 
 }
 
-.course-col{
+.service-col{
     flex-basis: 31%;
     background: #fff3f3;
     border-radius: 10px;
@@ -175,7 +175,7 @@ h3{
     margin: 10px 0;
 }
 
-.course-col:hover{
+.service-col:hover{
     box-shadow: 0 0 20px 0px rgba(0,0,0,0.2);
 }
 
@@ -185,16 +185,16 @@ h3{
     }
 }
 
-/*---- campus ----*/
+/*---- index examples our work ----*/
 
-.campus{
+.example{
     width: 80%;
     margin: auto;
     text-align: center;
     padding-top: 50px;
 }
 
-.campus-col{
+.example-col{
     flex-basis: 32%;
     border-radius: 10px;
     margin-bottom: 30px;
@@ -202,7 +202,7 @@ h3{
     overflow: hidden;
 }
 
-.campus-col img{
+.example-col img{
     width: 100%;
     display: block;
 }
@@ -237,32 +237,32 @@ h3{
     opacity: 1;
 }
 
-/*-- facilites ----*/
+/*-- pricing ----*/
 
-.facilites{
+.pricing{
     width: 80%;
     margin: auto;
     text-align: center;
     padding-top: 100px;
 }
 
-.facilites-col{
+.pricing-col{
     flex-basis: 31%;
     border-radius: 10px;
     margin-bottom: 5%;
     text-align: left;
 }
 
-.facilites-col img{
+.pricing-col img{
     width: 100%;
     border-radius: 10px;
 }
 
-.facilites-col p{
+.pricing-col p{
     padding: 0;
 }
 
-.facilites-col h3{
+.pricing-col h3{
     margin-top: 16px;
     margin-bottom: 15px;
     text-align: left;
